@@ -1,2 +1,2 @@
 # SnakeGame
-A snake game in haskell sing gloss lib
+A snake game in haskell using gloss lib
